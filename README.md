@@ -1,5 +1,6 @@
 # interactive-simon-game
 An online version of the classic "Simon" electronic board game. 
+Play the game at: https://akankshanehete.github.io/interactive-simon-game/
 
 1. Press any key on your keyboard to START. Simon will give the first signal. Repeat the signal by pressing the same color lens.
 
