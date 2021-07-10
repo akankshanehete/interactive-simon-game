@@ -12,4 +12,4 @@ Play the game at: https://akankshanehete.github.io/interactive-simon-game/
 
 5. If you fail to repeat a sequence exactly, Simon responds with a "RAZZ" sound. This means that the game is over, and the sequence of signals ends. 
 
-ENJOY 🖤🖤 
+
